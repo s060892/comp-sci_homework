@@ -67,4 +67,4 @@ def play_blackjack():
     else:
         return "You lose!"
     
-play_blackjack()
+print(play_blackjack())
