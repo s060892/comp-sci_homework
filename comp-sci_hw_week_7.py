@@ -70,6 +70,7 @@ library = Library()
 
 library.books.append(Book("Harry Potter", "J.K. Rowling"))
 library.books.append(Book("The Hunger Games", "Suzanne Collins"))
+library.books.append(Book("Shatter Me", "Tahereh Mafi"))
 
 
 while True:
